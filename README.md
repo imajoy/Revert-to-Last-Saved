@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 
 <p align="center">
-  <img src="Images/preview.png" alt="Revert to Last Saved Preview" width="92%">
+  <img src="Images/Preview.png" alt="Revert to Last Saved Preview" width="92%">
 </p>
 
 **Revert to Last Saved** is a Maya utility for quickly returning the current

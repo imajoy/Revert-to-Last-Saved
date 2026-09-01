@@ -14,6 +14,16 @@ saved version of the current scene.
 The latest version also adds a safety backup before reverting and restores
 the previous camera view and object selection when possible.
 
+## 🛒 Get the Tool
+
+The complete **Revert to Last Saved — One-Click Scene Revert for Maya**
+is available on Gumroad.
+
+**[👉 Purchase & Download on Gumroad](https://ajoyp.gumroad.com/l/ckhvds)**
+
+The full source code and commercial tool package are not included in this
+public GitHub repository.
+
 > **Commercial Tool**
 >
 > The complete software package is available through Gumroad.

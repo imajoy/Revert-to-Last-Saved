@@ -4,6 +4,10 @@
 ![Python](https://img.shields.io/badge/Python-PySide2%20%2F%20PySide6-blue)
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 
+<p align="center">
+  <img src="Images/preview.png" alt="Revert to Last Saved Preview" width="92%">
+</p>
+
 **Revert to Last Saved** is a Maya utility for quickly returning the current
 scene to its last saved state.
 
